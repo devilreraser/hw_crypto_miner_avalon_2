@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Avalon2.PcbDoc]
+   Generated File[Avalon2-Plated.TXT]
+   Generated File[Avalon2-NonPlated.TXT]
+   Generated File[Avalon2.LDP]
+   Generated File[Avalon2.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 22:44:55 On 15.11.2013 ã.

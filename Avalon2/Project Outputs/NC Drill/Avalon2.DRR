@@ -1,0 +1,23 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Avalon2.PcbDoc   15.11.2013 ã.  22:44:54
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : Avalon2-Plated.TXT
+ASCII Non-Plated RoundHoles File : Avalon2-NonPlated.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.3mm (11.811mil)        Round          1858             3733.73 mm (147.00 Inch)
+T2        0.9mm (35.433mil)        Round          24               295.00 mm (11.61 Inch)
+T3        1mm (39.37mil)           Round          2                7.00 mm (0.28 Inch)
+T4        1.15mm (45.276mil)       Round          4                7.50 mm (0.30 Inch)
+T5        1.5mm (59.055mil)        Round          1                0.00 mm (0.00 Inch)
+T6        2mm (78.74mil)           Round          6                35.91 mm (1.41 Inch)
+T7        2.5mm (98.425mil)        Round          2                20.32 mm (0.80 Inch)
+T8        4mm (157.48mil)          Round          13               441.26 mm (17.37 Inch)
+T9        0.9mm (35.433mil)        Round          2         NPTH   4.40 mm (0.17 Inch)
+---------------------------------------------------------------------------
+Totals                                            1912             4545.12 mm (178.94 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:01
